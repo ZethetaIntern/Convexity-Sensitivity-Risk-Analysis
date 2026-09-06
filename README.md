@@ -59,27 +59,41 @@ The Power BI report provides interactive visualization of the fixed-income portf
 
 ### Executive Summary
 Provides an overall view of portfolio risk metrics and key portfolio indicators.
+<img width="1331" height="742" alt="image" src="https://github.com/user-attachments/assets/5fce34e0-ed92-4880-bfd3-e71bc23ed90d" />
+
 
 ### Risk Contribution
 Analyzes duration, DV01, and convexity contributions across sectors and credit ratings.
+<img width="1331" height="742" alt="image" src="https://github.com/user-attachments/assets/756c49b9-a482-471e-8b81-ee7f9e389924" />
+
 
 ### Yield Sensitivity
 Shows portfolio sensitivity to different yield shocks and their impact on price, value, and P&L.
+<img width="1327" height="747" alt="image" src="https://github.com/user-attachments/assets/e7f4b396-7d98-4964-8221-210f3a66ec5d" />
+
 
 ### KRD Analysis
 Analyzes key-rate risk across maturity buckets and evaluates duration, DV01, and convexity contributions.
+<img width="1325" height="745" alt="image" src="https://github.com/user-attachments/assets/34858dc2-cedb-4128-92d2-b4602e7ac70a" />
+
 
 ### Monte Carlo
 Provides scenario-based portfolio risk analysis using simulated scenarios.
+<img width="1327" height="742" alt="image" src="https://github.com/user-attachments/assets/19f49766-0495-4cdd-8845-a1f78104609e" />
+
 
 ### VaR & CVaR
 Presents portfolio loss-risk measures using Value at Risk and Conditional Value at Risk analysis.
+<img width="1327" height="737" alt="image" src="https://github.com/user-attachments/assets/0a8bbd62-02e7-4897-84b0-0bf60922045c" />
+
 
 ### ML Model Comparison
 Provides the model-comparison section included in the Power BI report.
 
 ### Scenario Analysis
 Evaluates portfolio behavior under different yield and market scenarios.
+<img width="1326" height="742" alt="image" src="https://github.com/user-attachments/assets/aa934a22-9c2a-451e-9e21-50e49492f8ba" />
+
 
 ## Key Risk Metrics
 
